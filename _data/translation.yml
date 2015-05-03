@@ -1,0 +1,12 @@
+id:
+  navigation:
+    next: 'Selanjutnya'
+    previous: 'Sebelumnya'
+  landing-page:
+    title: 'Pengetahuan adalah kekuatan'
+en:
+  navigation:
+    next: 'Next'
+    previous: 'Prev'
+  landing-page:
+    title: 'Knowledge is power'
